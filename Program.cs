@@ -5,13 +5,13 @@ Console.WriteLine("------------- Equação do Segundo Grau -------------\n");
 Console.WriteLine("- A equação do 2º grau é do tipo ax² + bx + c = 0 -");
 Console.WriteLine("Identifique a, b, c na sua equação de segundo grau:\n");
 
-Console.Write("a = ");
+Console.Write("(a) = ");
 a = Convert.ToDouble(Console.ReadLine());
 
-Console.Write("b = ");
+Console.Write("(b) = ");
 b = Convert.ToDouble(Console.ReadLine());
 
-Console.Write("c = ");
+Console.Write("(c) = ");
 c = Convert.ToDouble(Console.ReadLine());
 
 Console.WriteLine();
