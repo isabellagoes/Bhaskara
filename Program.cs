@@ -44,5 +44,3 @@ else
         Console.WriteLine($"x2 = {x2:N2}");
     }
 }
-
-Console.Write(" ");
