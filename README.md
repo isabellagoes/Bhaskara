@@ -10,7 +10,7 @@ Assim, devemos receber do usuário os valores de `a`, `b` e `c`, e aplicar a fó
 
 ![](https://wikimedia.org/api/rest_v1/media/math/render/svg/00c22777378f9c594c71158fea8946f2495f2a28)
 
-Dicas:
+## Dicas:
 
 - Precisamos validar se o valor de `a` não é zero, porque nesse caso a equação não é do segundo grau.
 - Calculamos o discriminante Δ (_delta_):
@@ -25,7 +25,7 @@ Dicas:
 
 ![](https://wikimedia.org/api/rest_v1/media/math/render/svg/9d3cd187aefdeaf0b95243342c3eb9db9009d3b6)
 
-Exemplo 1 (`a == 0`):
+### _Exemplo 1 (`a == 0`):_
 
 ```
 -- Equação do segundo grau --
@@ -36,7 +36,7 @@ Exemplo 1 (`a == 0`):
 Não é uma equação de segundo grau!
 ```
 
-Exemplo 2 (`Δ < 0`):
+### _Exemplo 2 (`Δ < 0`):_
 
 ```
 -- Equação do segundo grau --
@@ -47,7 +47,7 @@ Exemplo 2 (`Δ < 0`):
 Como delta = -8,00, a equação não possui raízes reais!
 ```
 
-Exemplo 3:
+### _Exemplo 3:_
 
 ```
 -- Equação do segundo grau --
@@ -57,3 +57,17 @@ Exemplo 3:
 
 x1 = 1,00 e x2 = -3,00
 ```
+
+## Download
+
+Baixe o arquivo a seguir e o descompacte:
+
+[🗃 Download do arquivo .zip](dist/Bhaskara.zip)
+
+A seguir, execute-o com o comando:
+
+```
+dotnet ObrigadoDevCSharp.dll
+```
+
+Ou, se for de sua preferência, é possível executar o programa com duplo-clique em seu ícone, no caso de estar utilizando o Windows.
