@@ -67,7 +67,7 @@ Baixe o arquivo a seguir e o descompacte:
 A seguir, execute-o com o comando:
 
 ```
-dotnet ObrigadoDevCSharp.dll
+dotnet Bhaskara.dll
 ```
 
 Ou, se for de sua preferência, é possível executar o programa com duplo-clique em seu ícone, no caso de estar utilizando o Windows.
