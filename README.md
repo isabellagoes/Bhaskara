@@ -62,7 +62,7 @@ x1 = 1,00 e x2 = -3,00
 
 Baixe o arquivo a seguir e o descompacte:
 
-[🗃 Download do arquivo .zip](dist/Bhaskara.zip)
+[Download do arquivo .zip](dist/Bhaskara.rar)
 
 A seguir, execute-o com o comando:
 
