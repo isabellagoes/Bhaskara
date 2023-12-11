@@ -21,7 +21,6 @@ if (a == 0)
         Console.ForegroundColor = ConsoleColor.Red;
     Console.WriteLine("Não é uma equação de segundo grau!");
         Console.ResetColor();
-
 }
 
 else
